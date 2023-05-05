@@ -3,8 +3,8 @@ Program for a simple parking payment system, including functions to calculate pa
 
 ## Usage
 Run thorugh the terminal as below or launch the exucutable:
-
-> ./parking [parking_hours] [payment_amount]
-
+```shell
+./parking [parking_hours] [payment_amount]
+```
 
 The program will output the parking fee and the change due, as well as the breakdown of coins needed to make the change.
